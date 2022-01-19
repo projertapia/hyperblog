@@ -19,8 +19,12 @@ body{
 #cabecera{ background: #33a;
     color:white;
     margin: 0;
-    padding: 0.5em;
+    padding: 1em 1em 1em 45px;
     font-weight: bold;
+    background-image: url(../imagenes/dragon.png);
+    background-size: 30px;
+    background-position: 10px center;
+    background-repeat: no-repeat;
 }
 #cabecera #tagline{font-weight: normal; font-size:0.8em; padding: 0 0 0 15px;}
 #post{
